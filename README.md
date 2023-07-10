@@ -77,6 +77,11 @@ Change the target speed according to the value of button. Three different target
 
 ![image](https://github.com/jie-han543/Real-time-speed-regulation-of-DC-motor/assets/57163528/a3731599-a701-4b57-8c33-e533c0f90ef2)
 
+### Board Schematic
+
+![image](https://github.com/jie-han543/Real-time-speed-regulation-of-DC-motor/assets/57163528/3c4826af-17a0-48ef-9fdd-010db33fd77a)
+
+
 
 
 
